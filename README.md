@@ -14,4 +14,4 @@ Remember the squence that gets flashed from the very first level.
 ## Demo
 https://user-images.githubusercontent.com/103516250/195374972-e8895e53-d860-4aa7-8597-33e1f5a469c8.mp4
 
-### Play : https://vedanti00.github.io/Simon-Game/
+### Play : https://sinkarshantanu.github.io/Simon-Game/
